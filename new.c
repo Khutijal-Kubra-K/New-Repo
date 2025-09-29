@@ -3,5 +3,6 @@
 int main(){
 printf("Welcome to DevOps lab");
 printf("Enjoy coding");
+printf("Today is 29th sept");
 return 0;
 }
